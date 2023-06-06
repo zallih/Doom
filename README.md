@@ -20,8 +20,13 @@
   Doom é facilmente a série de tiro em primeira pessoa mais conhecida de todos os tempos, tendo mais de 20 anos de sucesso e preparando-se para retornar aos videogames com um novo jogo para o PlayStation 4, Xbox One e PC.
   
   Veja mais em: <a href ="https://www.techtudo.com.br/noticias/2014/08/doom-conheca-historia-do-popular-jogo-de-tiro.ghtml">Doom: conheça a história do popular jogo</a> ᶜʳᵉᵈᶦᵗᵒˢ
-<div>
   
+ 
+<div>
+ Acesse o jogo clicando <a href ="https://zallih.github.io/Doom/">AQUI</a>
+  
+  
+ 
   
 
   
