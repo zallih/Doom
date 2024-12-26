@@ -7,7 +7,7 @@
   <br><br>
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="zallih-UNITY" height="40" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242](https://yt3.googleusercontent.com/4YAaX7CsQ-paadHsNvC6wdv2nE_7VTKpoNJOTwFhHL4rQqLC8WFe6mNxL-z-e6sfHZbHG-ucPA=s900-c-k-c0x00ffffff-no-rj)">
+  <img align="center" alt="zallih-UNITY" height="40" width="40" src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png">
   Engine utilizada: <a href="https://unity.com/pt">Unity</a><br><br>
 
 
